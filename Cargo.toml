@@ -1,0 +1,11 @@
+[package]
+name = "model-check"
+version = "0.1.0"
+edition = "2021"
+description = "Model checking with explicit-state exploration and property verification"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/model-check"
+keywords = ["model-checking", "verification", "formal-methods", "state-machine"]
+categories = ["algorithms", "science"]
+
+[dependencies]
